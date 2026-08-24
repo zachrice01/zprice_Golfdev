@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Golf Course Architecture & Development
 ---
 ## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This catalog will classify golf course architects along multiple dimensions—notable projects, eras, geography and design philosophy, as well as course types and renovation history.  This project will give me the opportunities to demonstrate taxonomy, metadata, controlled sorting of many iconic course and introduce new ones as well.
 
 ## Editing pages
 
