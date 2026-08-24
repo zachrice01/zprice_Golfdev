@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "/zprice_Golfdev/",
+    siteUrl: "https://zachrice01.github.io/zprice_Golfdev/",
     ignorePatterns: ["private", "_templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
