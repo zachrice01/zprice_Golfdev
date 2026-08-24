@@ -3,7 +3,7 @@ title: Golf Architects and Development Catalog
 ---
 ## Description
 
-The Golf Course Architecture & Development Catalog will classify along multiple dimensions of architect, era, geography, design philosophy, course type, and renovation project history. The catalog will demonstrate taxonomy, metadata, controlled vocabularies, cross-references, and retrieval methods.
+Golf Architects and Development Catalog
 
 ## Editing pages
 

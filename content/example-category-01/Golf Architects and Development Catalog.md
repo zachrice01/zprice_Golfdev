@@ -1,13 +1,10 @@
 ---
-title: Category 01
+title: Golf Architects and Development Catalog
 ---
-## The Category 01 category index page
+## Golf Course Architecture & Development  will classified along multiple dimensions—architect, era, geography, design philosophy, course type, renovation history, and so on. That gives you opportunities to demonstrate taxonomy, metadata, controlled vocabularies, cross-references, and retrieval.
+### 
 
-### What is this page?
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
-
-On your local computer, this page corresponds to the file path: `content/example-category-01/index.md`.
 
 ### Naming a category page's index
 
