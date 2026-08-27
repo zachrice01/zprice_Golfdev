@@ -1,5 +1,5 @@
 ---
-title: Golf Architects and Development Catalog
+title: Representative Work
 ---
 ## Golf Course Architecture & Development  will classified along multiple dimensions—architect, era, geography, design philosophy, course type, renovation history, and so on. That gives you opportunities to demonstrate taxonomy, metadata, controlled vocabularies, cross-references, and retrieval.
 ### 
