@@ -1,7 +1,9 @@
 ---
 title: Era and Architectural Movements
 ---
-## Golf Course Architecture & Development  will classified along multiple dimensions—architect, era, geography, design philosophy, course type, renovation history, and so on. That gives you opportunities to demonstrate taxonomy, metadata, controlled vocabularies, cross-references, and retrieval.
+## The Golden Age (1910s–1930s)
+*Architects moved away from purely punitive designs toward strategic options.*
+
 ### 
 
 
