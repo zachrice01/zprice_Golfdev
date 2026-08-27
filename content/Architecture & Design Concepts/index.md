@@ -1,7 +1,23 @@
 ---
 title: Architecture & Design Concepts
 ---
-## The Category 02 category index page
+## Schools of Design Philosophy
+Penal: Focuses on punishing errant shots by placing hazards directly in the line of play, leaving little room for recovery.
+
+Strategic: Offers players multiple choices and wider fairways, rewarding tactical thinking and risk-reward decision-making.
+
+Heroic: Presents an unavoidable, visually dramatic challenge that requires courage and high skill to carry a hazard or feature.
+
+##Landscape and Setting Styles
+Links: Built on sandy, coastal soil with natural rolling dunes, very few trees, and heavy wind influences, originating in Scotland and Ireland.
+
+Parkland: Located inland with lush, green grass, heavily manicured fairways, and dense tree-lined boundaries.
+
+Heathland: Found inland on sandy, rolling terrain characterized by native wild grasses, heather, and gorse rather than thick forests.
+
+Sandbelt: Distinctive Australian inland style featuring firm, sandy soil, native vegetation, and dramatic, flashed-up bunker faces.
+
+Desert: Built in arid regions like Arizona or the Middle East, utilizing native desert flora and sand outside of intense, irrigated green turf
 
 ### What is this page?
 
