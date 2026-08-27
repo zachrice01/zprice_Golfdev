@@ -1,5 +1,5 @@
 ---
-title: 2 Architecture & Design Concepts
+title: Architecture & Design Concepts
 ---
 ## The Category 02 category index page
 
