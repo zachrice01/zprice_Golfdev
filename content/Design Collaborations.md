@@ -1,9 +1,9 @@
 ---
-title: Notable Projects and Courses
+title: Golf Architects and Development Catalog
 ---
-## The index page
+## Description
 
-This catalog will classify golf course architects along multiple dimensions—notable projects, eras, geography and design philosophy, as well as course types and renovation history.  This project will give me the opportunities to demonstrate taxonomy, metadata, controlled sorting of many iconic course and introduce new ones as well.
+Golf Architects and Development Catalog
 
 ## Editing pages
 
@@ -39,3 +39,4 @@ You can use any text editor capable of opening and editing Markdown files.
 ## Adding new pages
 
 You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+
