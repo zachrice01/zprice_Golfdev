@@ -1,5 +1,5 @@
 ---
-title: Golf Course Architecture
+title: Notable Projects and Courses
 ---
 ## The index page
 
