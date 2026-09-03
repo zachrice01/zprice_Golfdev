@@ -2,11 +2,11 @@
 title: Golf Course Architecture & Design
 ---
 ## Main Categories
-- [[category-01/index|Architecture & Design Concepts]]
-- [[category-02/index|Era and Architectural Movements]]
-- [[category-01/index|Golf Architects]]
-- [[category-02/index|Notable Collaborations]]
-- [[category-01/index|Representative Work]]
+[[category-01/index|Architecture & Design Concepts]]
+[[category-02/index|Era and Architectural Movements]]
+[[category-01/index|Golf Architects]]
+[[category-02/index|Notable Collaborations]]
+[[category-01/index|Representative Work]]
 
 This catalog will classify golf course architects along multiple dimensions—notable projects, eras, geography and design philosophy, as well as course types and renovation history.  This project will give me the opportunities to demonstrate taxonomy, metadata, controlled sorting of many iconic course and introduce new ones as well.
 
